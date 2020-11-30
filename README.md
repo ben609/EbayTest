@@ -1,2 +1,0 @@
-# AmazonAssignment
-Appium Testing Project
